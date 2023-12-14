@@ -1,0 +1,1 @@
+This is my first R script that I fully coded myself after finishing my undergrad. It’s based off of a set of data collected by a radar system in Canada. There are a total of 34 independent variables in the dataset that I used to create this KNN model. The data and more information about it can be found at data.world by following this link.
